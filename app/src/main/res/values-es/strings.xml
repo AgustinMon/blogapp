@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlogApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola blank fragment</string>
+    <string name="hello_camera_fragment">Hola camera fragment</string>
+    <string name="hello_profile_fragment">Hola profile fragment</string>
+</resources>

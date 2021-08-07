@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/Pruebas/BlogApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/Pruebas/BlogApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/Pruebas/BlogApp/app/src/main/res/layout/fragment_camera.xml" value="0.24479166666666666" />
         <entry key="..\:/Android/Pruebas/BlogApp/app/src/main/res/layout/fragment_home_screen.xml" value="0.1" />
         <entry key="..\:/Android/Pruebas/BlogApp/app/src/main/res/layout/fragment_login.xml" value="0.5" />
+        <entry key="..\:/Android/Pruebas/BlogApp/app/src/main/res/layout/fragment_profile.xml" value="0.16" />
         <entry key="..\:/Android/Pruebas/BlogApp/app/src/main/res/layout/fragment_register.xml" value="0.22" />
         <entry key="..\:/Android/Pruebas/BlogApp/app/src/main/res/layout/post_item_view.xml" value="0.25" />
+        <entry key="..\:/Android/Pruebas/BlogApp/app/src/main/res/menu/navigationmenu.xml" value="0.22" />
       </map>
     </option>
   </component>
